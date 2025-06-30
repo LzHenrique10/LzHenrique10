@@ -26,4 +26,4 @@ Mas é justamente por isso que eu faço questão de provar o contrario.
 ## 🌐 Networks
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/silva_.lz7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((www.linkedin.com/in/luiz-h-505122346))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/luiz-h-505122346/))
